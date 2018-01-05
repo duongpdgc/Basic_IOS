@@ -10,6 +10,16 @@ import UIKit
 
 class TableViewController: UITableViewController {
 
+    // declare: Khai báo
+    // var arrayNumber = [Int](1...100)
+    //    var total = 0
+    //    func arrayBackNum(a : Int) -> Int {
+    //        for i in 0..<a {
+    //            total += i
+    //        }
+    //        return a
+    //    }
+    
     var arrNumber = [Int](1...100)
     
     
